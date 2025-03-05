@@ -2,7 +2,7 @@ const fs = require('fs');
 const { execSync } = require('child_process');
 
 // GitHub Repository URL
-const REPO_PATH = "/home/yosef/Documents/programs/Replit"; // Replace this with your repo path
+const REPO_PATH = ""; // Replace this with your repo path
 const FILE_NAME = "random_code.js";  // File that will be updated
 const INTERVAL = 60 * 1000;  // Push interval (e.g., every 60 seconds)
 
