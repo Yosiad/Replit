@@ -1,1 +1,1 @@
-console.log("Random number: 6480");
+console.log("Random number: 2980");
