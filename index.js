@@ -1,5 +1,5 @@
-import fs from 'fs';
-import { execSync } from 'child_process';
+const fs = require('fs');
+const { execSync } = require('child_process');
 
 // GitHub Repository URL
 const REPO_PATH = "/home/yosef/Documents/programs/Replit"; // Replace this with your repo path
